@@ -1,0 +1,10 @@
+This project incorporates SMTP protocol which allows anyone who has access to a server that supports SMTP protocols
+ to send emails by defining the Source, Destination, Subject and Body of an email. 
+
+This project also incorporates POP3 protocols which allow users to read emails from a supporting server. 
+If you get the following error the server was unable to connect or was unable to complete “from socket import*”.
+
+import: unable to open X server `'.
+import: unable to open X server `'.
+./SMTP.py: line 6: syntax error near unexpected token `('
+./SMTP.py: line 6: `def SendMessage():'
